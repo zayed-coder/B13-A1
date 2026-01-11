@@ -76,3 +76,42 @@ body {
     font-size: 12px;
     margin-bottom: 20px;
 }
+.banner h1 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.banner h1 span {
+    color: #30B868;
+}
+
+.banner p {
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.banner-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.note-section {
+    padding: 80px 60px;
+    text-align: center;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.note-section h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
