@@ -8,7 +8,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+header{
+  padding-top: 16px auto;
+  padding-left: 120px;
+  
+  
+}
 
 body {
-    background-color: #391414;
+    background-color: #c4b7b7;
 }
